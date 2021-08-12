@@ -2,10 +2,19 @@
 .chores {
     color: orangered;
     font-size: large;
+    
      
 }
-h3{
-    text-decoration: undeline;
+
+.chores h3{
+    text-decoration: underline;
+    
 }
+.chores ul li {
+
+    font-style: italic;
+    
+    }
+
 
 
